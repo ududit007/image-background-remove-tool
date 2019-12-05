@@ -33,3 +33,5 @@ A tool to remove a background from a portrait image using Tensorflow
 * Output: 
 * ![alt text](https://github.com/OPHoperHPO/image-background-remove-tool/blob/master/output/1.png "Output")
 **********************************************************************
+
+## Use "tf.compat.v1.Session" and "tf.compat.v1.GraphDef()" in place of "tf.Session" and "tf.GraphDef()" respectively for latest tensorflow (2.0.0).
